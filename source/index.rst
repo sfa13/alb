@@ -10,94 +10,85 @@ L'Albania
 
 Gli :term:`argomenti <Argomento>` principali:
 
-.. panels::
-   :container: container-lg pb-3 px-md-0 px-0
-   :column: col-lg-4 col-md-4 col-sm-6 col-xs-12 p-4
+.. grid:: 1 2 3 3
+   :gutter: 2
 
+   .. grid-item-card:: La cucina
+      :link: food
+      :link-type: ref
+      :class-card: sd-p-4 sd-d-flex sd-flex-column sd-justify-content-center sd-align-items-center
+      :text-align: center
 
-   .. image:: media/icons/food.svg
-      :width: 140
-      :height: 140
-      :align: center
+      .. image:: media/icons/food.svg
+         :width: 140
+         :height: 140
+         :align: center
 
-   .. div:: align-center
+   .. grid-item-card:: Il trasporto
+      :link: transportation
+      :link-type: ref
+      :class-card: sd-p-4 sd-d-flex sd-flex-column sd-justify-content-center sd-align-items-center
+      :text-align: center
 
-      .. link-button:: /food
-         :type: ref
-         :text: La cucina
-         :classes: stretched-link font-weight-bold btn-link text-dark
-   ---
+      .. image:: media/icons/transportation.svg
+         :width: 140
+         :height: 140
+         :align: center
 
-   .. image:: media/icons/transportation.svg
-      :width: 140
-      :align: center
+   .. grid-item-card:: L'ambiento
+      :link: environment
+      :link-type: ref
+      :class-card: sd-p-4 sd-d-flex sd-flex-column sd-justify-content-center sd-align-items-center
+      :text-align: center
 
-   .. div:: align-center
+      .. image:: media/icons/environment.svg
+         :width: 140
+         :height: 140
+         :align: center
 
-      .. link-button:: transportation/transportation
-         :type: ref
-         :text: Il transporto
-         :classes: stretched-link font-weight-bold btn-link text-dark
-   ---
+   .. grid-item-card:: Le spiagge
+      :link: beaches
+      :link-type: ref
+      :class-card: sd-p-4 sd-d-flex sd-flex-column sd-justify-content-center sd-align-items-center
+      :text-align: center
 
-   .. image:: media/icons/environment.svg
-      :width: 140
-      :align: center
+      .. image:: media/icons/beaches.svg
+         :width: 140
+         :height: 140
+         :align: center
 
-   .. div:: align-center
+   .. grid-item-card:: Gli animali
+      :link: animals
+      :link-type: ref
+      :class-card: sd-p-4 sd-d-flex sd-flex-column sd-justify-content-center sd-align-items-center
+      :text-align: center
 
-      .. link-button:: /environment
-         :type: ref
-         :text: Il ambiento
-         :classes: stretched-link font-weight-bold btn-link text-dark
-   ---
+      .. image:: media/icons/animals.svg
+         :width: 140
+         :height: 140
+         :align: center
 
-   .. image:: media/icons/beaches.svg
-      :width: 140
-      :align: center
+   .. grid-item-card:: Le cose belle
+      :link: beautiful_things
+      :link-type: ref
+      :class-card: sd-p-4 sd-d-flex sd-flex-column sd-justify-content-center sd-align-items-center
+      :text-align: center
 
-   .. div:: align-center
+      .. image:: media/icons/beautiful_things.svg
+         :width: 140
+         :height: 140
+         :align: center
 
-      .. link-button:: /beaches
-         :type: ref
-         :text: Le spiagge
-         :classes: stretched-link font-weight-bold btn-link text-dark
-   ---
+   .. grid-item-card:: I consigli
+      :link: tips
+      :link-type: ref
+      :class-card: sd-p-4 sd-d-flex sd-flex-column sd-justify-content-center sd-align-items-center
+      :text-align: center
 
-   .. image:: media/icons/animals.svg
-      :width: 140
-      :align: center
-
-   .. div:: align-center
-
-      .. link-button:: animals/animals
-         :type: ref
-         :text: Gli animali
-         :classes: stretched-link font-weight-bold btn-link text-dark
-   ---
-   
-   .. image:: media/icons/beautiful_things.svg
-      :width: 140
-      :align: center
-
-   .. div:: align-center
-
-      .. link-button:: beautiful_things/beautiful_things
-         :type: ref
-         :text: Le cose belle
-         :classes: stretched-link font-weight-bold btn-link text-dark
-   ---
-   
-   .. image:: media/icons/tips.svg
-      :width: 140
-      :align: center
-
-   .. div:: align-center
-
-      .. link-button:: /tips
-         :type: ref
-         :text: I consigli
-         :classes: stretched-link font-weight-bold btn-link text-dark
+      .. image:: media/icons/tips.svg
+         :width: 140
+         :height: 140
+         :align: center
 
 .. toctree::
    :maxdepth: 2

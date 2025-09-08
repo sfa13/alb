@@ -14,10 +14,9 @@ author = 'sfa'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'sphinx_panels',
+    'sphinx_design',
     'sphinx_tabs.tabs',
     'sphinx_copybutton',
-    'rst2pdf.pdfbuilder',
 ]
 
 pdf_documents = [('index', project, project, author),]

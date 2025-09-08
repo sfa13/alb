@@ -1,6 +1,6 @@
 .. _environment:
 
-Il :term:`ambiento <Ambiento>`
+L':term:`ambiento <Ambiento>`
 ***********************************
 
 Ci sono :term:`rifiuti <Rifiuti>` e cani :term:`ovunque <Ovunque>`.

@@ -1,6 +1,6 @@
 .. _transportation:
 
-Il transporto
+Il trasporto
 *******************
 
 .. toctree::

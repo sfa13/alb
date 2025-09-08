@@ -17,7 +17,7 @@ Strade macchiate e piene di :term:`buche <Buca>`
 .. image:: /media/transportation/off_road.png
    :width: 400
 
-Strade normale con gli animali
+Strade normali con gli animali
 ##########################################
 
 .. image:: /media/transportation/road_with_animals.png
