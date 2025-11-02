@@ -9,16 +9,14 @@ Il vocabulario
     Adattare
         Prispôsobiť sa
 
-        .. admonition:: Vedi anche
-            :class: note
+        .. seealso::
             
             :term:`Adatto`
     
     Adatto
         Vhodný
 
-        .. admonition:: Vedi anche
-            :class: note
+        .. seealso::
             
             :term:`Adattare`
     

@@ -11,7 +11,6 @@ I :term:`consigli <consiglio>`
 
 * Se :term:`noleggi <Noleggiare>` una macchina, porta molta pazienza e guida :term:`con prudenza <Con prudenza>`.
   
-  .. admonition:: Nota
-    :class: note
+  .. note::
     
     Il :term:`fondo della macchina <Fondo della macchina>` non è mai :term:`assicurato <Assicurare>` in Albania.

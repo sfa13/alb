@@ -3,8 +3,7 @@ L'Albania
 
 **Il paese che ti fa capire che la Slovacchia non è così male.**
 
-.. admonition:: Attenzione
-   :class: attention
+.. attention::
 
    L'albania non è :term:`adatta <Adatto>` a persone sensibili.
 

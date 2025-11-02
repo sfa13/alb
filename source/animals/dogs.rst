@@ -3,8 +3,7 @@
 Cani di strada
 *******************
 
-.. admonition:: Attenzione
-   :class: attention
+.. attention::
 
    Purtroppo, ci sono le città dove le persone vendono i cani ai turisti.
 
