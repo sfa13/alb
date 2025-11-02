@@ -1,18 +1,16 @@
-L'Albania
+Albania
 =====================
 
-**Il paese che ti fa capire che la Slovacchia non è così male.**
+**The country that makes you understand that Slovakia is not that bad.**
 
-.. attention::
+.. attention:: Albania is not :term:`suitable <suitable>` for sensitive people.
 
-   L'albania non è :term:`adatta <Adatto>` a persone sensibili.
-
-Gli :term:`argomenti <Argomento>` principali:
+Main :term:`topics <topic>`:
 
 .. grid:: 1 2 3 3
    :gutter: 2
 
-   .. grid-item-card:: La cucina
+   .. grid-item-card:: Cuisine
       :link: food
       :link-type: ref
       :class-card: sd-p-4 sd-d-flex sd-flex-column sd-justify-content-center sd-align-items-center
@@ -23,7 +21,7 @@ Gli :term:`argomenti <Argomento>` principali:
          :height: 140
          :align: center
 
-   .. grid-item-card:: Il trasporto
+   .. grid-item-card:: Transportation
       :link: transportation
       :link-type: ref
       :class-card: sd-p-4 sd-d-flex sd-flex-column sd-justify-content-center sd-align-items-center
@@ -34,7 +32,7 @@ Gli :term:`argomenti <Argomento>` principali:
          :height: 140
          :align: center
 
-   .. grid-item-card:: L'ambiento
+   .. grid-item-card:: Environment
       :link: environment
       :link-type: ref
       :class-card: sd-p-4 sd-d-flex sd-flex-column sd-justify-content-center sd-align-items-center
@@ -45,7 +43,7 @@ Gli :term:`argomenti <Argomento>` principali:
          :height: 140
          :align: center
 
-   .. grid-item-card:: Le spiagge
+   .. grid-item-card:: Beaches
       :link: beaches
       :link-type: ref
       :class-card: sd-p-4 sd-d-flex sd-flex-column sd-justify-content-center sd-align-items-center
@@ -56,7 +54,7 @@ Gli :term:`argomenti <Argomento>` principali:
          :height: 140
          :align: center
 
-   .. grid-item-card:: Gli animali
+   .. grid-item-card:: Animals
       :link: animals
       :link-type: ref
       :class-card: sd-p-4 sd-d-flex sd-flex-column sd-justify-content-center sd-align-items-center
@@ -67,7 +65,7 @@ Gli :term:`argomenti <Argomento>` principali:
          :height: 140
          :align: center
 
-   .. grid-item-card:: Le cose belle
+   .. grid-item-card:: Beautiful things
       :link: beautiful_things
       :link-type: ref
       :class-card: sd-p-4 sd-d-flex sd-flex-column sd-justify-content-center sd-align-items-center
@@ -78,7 +76,7 @@ Gli :term:`argomenti <Argomento>` principali:
          :height: 140
          :align: center
 
-   .. grid-item-card:: I consigli
+   .. grid-item-card:: Tips
       :link: tips
       :link-type: ref
       :class-card: sd-p-4 sd-d-flex sd-flex-column sd-justify-content-center sd-align-items-center
@@ -91,7 +89,7 @@ Gli :term:`argomenti <Argomento>` principali:
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contenuto
+   :caption: Contents
    :hidden:
 
    food

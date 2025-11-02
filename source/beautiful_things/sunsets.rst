@@ -1,6 +1,6 @@
 .. _sunsets:
 
-:term:`Tramonti <Tramonto>`
+:term:`Sunsets <sunset>`
 **********************************
 
 .. image:: /media/beautiful_things/beach_sunset.png

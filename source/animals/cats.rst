@@ -1,6 +1,6 @@
 .. _cats:
 
-:term:`Gatti <Gatto>` da ristorante
+Restaurant :term:`cats <cat>`
 ****************************************
 
 .. image:: /media/animals/cat1.png

@@ -3,133 +3,129 @@ Il vocabulario
 
 .. glossary::
 
-    A pagamento
-        Za poplatok 
+    Paid
+        A pagamento
     
-    Adattare
-        Prispôsobiť sa
+    Adapt
+        Adattare
 
-        .. seealso::
-            
-            :term:`Adatto`
+        .. seealso:: :term:`Suitable`
     
-    Adatto
+    Suitable
         Vhodný
 
-        .. seealso::
-            
-            :term:`Adattare`
+        .. seealso:: :term:`Adapt`
     
-    Alcuno
-        Nejaký
+    Some
+        Alcuno
     
-    Ambiento
-        Životné prostredie
+    Environment
+        Ambiento
 
-    Argomento
-        Téma
+    Topic
+        Argomento
     
-    Assicurare
-        Poistiť, Zabezpečiť
+    Insure
+        Assicurare
     
-    Autisti
-        Vodiči
+    Drivers
+        Autisti
 
-    Buca
-        Diera (na ceste)
+    Hole
+        Buca
 
-    Caro
-        Drahý
+    Expensive
+        Caro
 
-    Cassonetto
-        Kontajner
+    Dumpster
+        Cassonetto
 
-    Cavallo
-        Kôň
+    Horse
+        Cavallo
     
-    Chiedere
-        Pýtať sa, Prosiť, Žiadať
+    Ask
+        Chiedere
     
-    Con prudenza
-        Opatrne
+    With caution
+        Con prudenza
     
-    Consiglio
-        Rada
+    Tip
+        Consiglio
 
-    Contanti
-        Hotovosť
+    Cash
+        Contanti
 
-    Diverso
-        Rôzny
+    Different
+        Diverso
     
-    Esperienza
-        Skúsenosť
+    Experience
+        Esperienza
     
-    Essere composto da
-        Byť zložený z
+    To be made of
+        Essere composto da
     
-    Fondo della macchina
-        Podvozok auta
+    Bottom of a car
+        Fondo della macchina
     
-    Gatto
-        Mačka
+    Cat
+        Gatto
     
-    Greco
-        Grécky
+    Greek
+        Greco
 
-    Guidare
-        Šoférovať
+    Drive
+        Guidare
 
-    Magro
-        Tenký, Chudý
+    Thin
+        Magro
     
-    Mucca
-        Krava
+    Cow
+        Mucca
 
-    Noleggiare
-        Požičať si, Prenajať si (auto, bicykel, atď.)
+    Rent
+        Noleggiare
     
-    Ovunque
-        Všade
+    Everywhere
+        Ovunque
     
-    Pazzo
-        Šialený
+    Crazy
+        Pazzo
     
-    Pieno
-        Plný
+    Full
+        Pieno
 
-    Prato
-        Lúka
+    Meadow
+        Prato
     
-    Precedenza
-        Prednosť
+    Precedence
+        Precedenza
 
-    Purtroppo
-        Bohužiaľ
+    Unfortunatelly
+        Purtroppo
 
-    Salute mentale
-        Duševné zdravie
+    Mental health
+        Salute mentale
     
-    Somaro
-        Osol
+    Donkey
+        Somaro
 
-    Soprattutto
-        Predovšetkým
+    Above all
+        Soprattutto
     
-    Spazzatura
-        Odpadky, Smeti
+    Garbage
+        Spazzatura
 
-    Spiaggia
-        Pláž
+    Beach
+        Spiaggia
     
-    Strada sterrata
-        Nespevnená/poľná cesta
+    Dirt road
+        Strada sterrata
 
-    Ripido
-        Strmý
+    Steep
+        Ripido
 
-    Rifiuti
-        Odpad
+    Waste
+        Rifiuti
 
-    Tramonto
-        Západ slnka    
+    Sunset
+        Tramonto    

@@ -1,9 +1,9 @@
 .. _cars:
 
-Le macchine
+Cars
 *******************
 
-Di solito le macchine sono :term:`piene <Pieno>`:
+Usually, the cars are :term:`full <full>`:
 
 .. image:: /media/transportation/full_car.png
    :width: 400

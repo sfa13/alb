@@ -1,6 +1,6 @@
 .. _donkeys:
 
-:term:`Somari <Somaro>` da trasporto
+Transportation :term:`donkeys <donkey>`
 ******************************************
 
 .. image:: /media/animals/donkey.png

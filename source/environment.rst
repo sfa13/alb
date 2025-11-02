@@ -1,25 +1,25 @@
 .. _environment:
 
-L':term:`ambiento <Ambiento>`
+:term:`Environment <environment>`
 ***********************************
 
-Ci sono :term:`rifiuti <Rifiuti>` e cani :term:`ovunque <Ovunque>`.
+There are dogs and :term:`waste <waste>` :term:`everywhere <everywhere>`.
 
-Ecco :term:`alcuni <alcuno>` esempi:
+Here are :term:`some <some>` examples:
 
-Rifiuti sul :term:`prato <Prato>`
+"Waste on a :term:`meadow <meadow>`"
 ##########################################
 
 .. image:: /media/environment/trash1.png
    :width: 400
 
-Rifiuti sulla :term:`spiaggia <Spiaggia>`
+Waste on a :term:`beach <beach>`
 ##############################################
 
 .. image:: /media/environment/trash2.png
    :width: 400
 
-Cani sulla spiaggia
+Dogs on a beach
 ##########################################
 
 .. image:: /media/environment/dogs.png

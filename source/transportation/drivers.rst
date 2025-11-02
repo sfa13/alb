@@ -1,13 +1,11 @@
 .. _drivers:
 
-Gli autisti
+Drivers
 *******************
 
-In Albania gli :term:`autisti <Autisti>` sono :term:`pazzi <Pazzo>`.
+In Albania the :term:`drivers <drivers>` are :term:`crazy <crazy>`.
 
 .. image:: /media/transportation/so-close.gif
    :width: 400
 
-..  note::
-
-   A volte le macchine sono :term:`guidate <Guidare>` dai bambini.
+..  note:: Sometimes children :term:`drive <drive>` the cars.

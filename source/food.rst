@@ -1,9 +1,9 @@
 .. _food:
 
-La cucina
+Cuisine
 *******************
 
-Dalla mia :term:`esperienza <Esperienza>`, la cucina albanese è :term:`soprattutto <Soprattutto>` :term:`composta da <Essere composto da>` piatti italiani e :term:`greci <Greco>`.
+In my :term:`experience <experience>`, the albanese cuisine is :term:`above all <above all>` :term:`made of <to be made of>` italian and :term:`greek <greek>` dishes. 
 
 .. image:: /media/food/italian.png
    :width: 400

@@ -1,9 +1,9 @@
 .. _lake:
 
-Un lagho
+A lake
 **********************
 
-**Il lagho di Bovilla** che e vicino a **Tirana**:
+**The Bovilla lake** that is near **Tirana**:
 
 .. image:: /media/beautiful_things/lake.png
    :width: 400

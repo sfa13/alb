@@ -1,13 +1,11 @@
 .. _dogs:
 
-Cani di strada
+Street dogs
 *******************
 
-.. attention::
+.. attention:: Unfortunatelly, there are cities where they sell the dogs to turists.
 
-   Purtroppo, ci sono le città dove le persone vendono i cani ai turisti.
-
-   A volte ci sono bambini con i cani sulle strade che :term:`chiedono <Chiedere>` soldi. E anche a volte ci sono genitori con i loro bambini piccoli che fanno lo stesso.
+   Sometimes there are children with dogs on the streets who :term:`ask <ask>` money. And also there are parents with their small children who do the same.
 
 .. image:: /media/animals/dog.png
    :width: 400

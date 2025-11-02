@@ -1,13 +1,13 @@
 .. _animals:
 
-Gli animali
+Animals
 *******************
 
-Ci sono :term:`diversi <Diverso>` tipi di animali.
+There are :term:`different <different>` types of animals.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contenuto
+   :caption: Contents
 
    dogs
    cats

@@ -1,9 +1,9 @@
 .. _statue:
 
-Una statua
+A statue
 *******************
 
-Io e una statua bellissima:
+Me and a beaufiful statue:
 
 .. image:: /media/beautiful_things/beauty1.png
    :width: 400

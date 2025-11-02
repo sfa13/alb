@@ -1,13 +1,13 @@
 .. _beautiful_things:
 
-Le cose belle
+Beautiful things
 *******************
 
-Ma ci sono anche le cose belle.
+But there are also beaufiful things.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contenuto
+   :caption: Contents
 
    statue
    lake

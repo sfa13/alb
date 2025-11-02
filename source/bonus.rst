@@ -1,17 +1,17 @@
 .. _bonus:
 
-Il bonus: Impara una parola albanese
+Bonus: Learn an albanese word
 *****************************************
 
 .. image:: /media/bonus/bonus1.png
    :width: 400
 
-**Analkolik** non è:
+**Analkolik** is not this:
 
 .. image:: /media/bonus/bonus2.png
    :width: 300
 
-Ma è:
+But this:
 
 .. image:: /media/bonus/bonus3.png
    :width: 400

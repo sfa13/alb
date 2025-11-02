@@ -1,9 +1,9 @@
 .. _traffic:
 
-Il traffico
+Traffic
 *******************
 
-Ci sono sempre tante macchine sulle strade e l'autista che ha la macchina più :term:`cara <Caro>` ha la :term:`precedenza <Precedenza>`.
+There are always a lot of cars on the road and the driver who has the most :term:`expensive <expensive>` car has the :term:`precedence <precedence>`.
 
 .. image:: /media/transportation/transportation1.jpg
    :width: 600

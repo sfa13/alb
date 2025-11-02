@@ -1,9 +1,9 @@
 .. _horses:
 
-:term:`Cavalli <Cavallo>` ecologici
+Ecologic :term:`horses <horse>`
 ******************************************
 
-Ci sono cavalli che mangiano la :term:`spazzatura <Spazzatura>` dai :term:`cassonetti <Cassonetto>`.
+There are horses that eat the :term:`garbage <garbage>` from :term:`dumpsters <dumpster>`.
 
 .. image:: /media/animals/horse.png
    :width: 400

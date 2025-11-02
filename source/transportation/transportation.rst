@@ -1,11 +1,11 @@
 .. _transportation:
 
-Il trasporto
+Transportation
 *******************
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contenuto
+   :caption: Contents
 
    drivers
    cars

@@ -1,6 +1,6 @@
 .. _cows:
 
-:term:`Mucche <Mucca>` :term:`magre <Magro>`
+:term:`Thin <thin>` :term:`cows <cow>`
 ************************************************
 
 .. image:: /media/animals/cow.png

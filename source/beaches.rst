@@ -1,17 +1,17 @@
 .. _beaches:
 
-Le spiagge
+Beaches
 *******************
 
-Ci sono questi tipi di spiaggia:
+There are these types of beaches:
 
-Spiagge sporche
+Dirty beaches
 ##########################################
 
 .. image:: /media/environment/trash2.png
    :width: 400
 
-Spiagge piene
+Beaches full of people
 ##########################################
 
 **Ksamil**:
@@ -19,7 +19,7 @@ Spiagge piene
 .. image:: /media/beaches/full_beach.png
    :width: 400
 
-Spiagge private (:term:`a pagamento <A pagamento>`)
+Private beaches (:term:`paid <paid>`)
 ########################################################
 
 **Ksamil**:
@@ -27,10 +27,10 @@ Spiagge private (:term:`a pagamento <A pagamento>`)
 .. image:: /media/beaches/beach_ksamil_sarande_private.png
    :width: 400
 
-Spiagge belle
+Beautiful beaches
 ##########################################
 
-:term:`Purtroppo <Purtroppo>` solo alcune spiagge sono belle.
+:term:`Unfortunatelly <unfortunatelly>` only some are beaufiful.
 
 **La spiaggia di Gjipe** vicino a **Himare**:
 

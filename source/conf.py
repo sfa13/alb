@@ -38,6 +38,12 @@ html_logo = 'media/Flag_of_Albania.png'
 html_title = "Albania"
 html_favicon = "media/Flag_of_Albania.png"
 
+# -- Options for sphinx-intl example
+
+locale_dirs = ['locale/']   # po files will be created in this directory
+gettext_compact = False     # optional: avoid file concatenation in sub directories.
+
+
 html_show_sourcelink = False
 
 latex_documents = [
